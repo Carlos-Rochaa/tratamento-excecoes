@@ -1,0 +1,14 @@
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\obj\Debug\net8.0\ExercicioPropostoTratamentoExceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\obj\Debug\net8.0\ExercicioPropostoTratamentoExceções.AssemblyInfoInputs.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\obj\Debug\net8.0\ExercicioPropostoTratamentoExceções.AssemblyInfo.cs
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\obj\Debug\net8.0\ExercicioPropostoTratamentoExceções.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\bin\Debug\net8.0\ExercicioPropostoTratamentoExceções.exe
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\bin\Debug\net8.0\ExercicioPropostoTratamentoExceções.deps.json
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\bin\Debug\net8.0\ExercicioPropostoTratamentoExceções.runtimeconfig.json
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\bin\Debug\net8.0\ExercicioPropostoTratamentoExceções.dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\bin\Debug\net8.0\ExercicioPropostoTratamentoExceções.pdb
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\obj\Debug\net8.0\ExercicioPropostoTratamentoExceções.dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\obj\Debug\net8.0\refint\ExercicioPropostoTratamentoExceções.dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\obj\Debug\net8.0\ExercicioPropostoTratamentoExceções.pdb
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\obj\Debug\net8.0\ExercicioPropostoTratamentoExceções.genruntimeconfig.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\ExercicioPropostoTratamentoExceções\ExercicioPropostoTratamentoExceções\obj\Debug\net8.0\ref\ExercicioPropostoTratamentoExceções.dll
